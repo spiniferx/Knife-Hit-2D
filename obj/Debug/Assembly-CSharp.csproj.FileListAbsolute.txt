@@ -1,0 +1,2 @@
+D:\Unity Projects\Knife Hit 2D\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity Projects\Knife Hit 2D\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
